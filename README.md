@@ -16,6 +16,8 @@ Built to showcase my evolution as a Machine Learning Engineer, Flutter Developer
 
 ## 📸 Preview
 
+### Intro
+
 <img width="1907" height="911" alt="image" src="https://github.com/user-attachments/assets/c4e9602e-3741-4ea0-a454-cb68a17c1333" />
 
 ### Hero Timeline
