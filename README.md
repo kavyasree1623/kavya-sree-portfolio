@@ -20,31 +20,33 @@ Built to showcase my evolution as a Machine Learning Engineer, Flutter Developer
 
 ### Hero Timeline
 
-
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/67227b37-7918-4e09-82c0-9a33f4a75894" />
 
 ### Origin Timeline
 
-The beginning of my Computer Science journey at St. Peter's Engineering College.
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/06507cec-488e-460b-b88f-75818f14dc13" />
+
+<img width="1912" height="668" alt="image" src="https://github.com/user-attachments/assets/5fd1942a-dfa8-4af9-bb01-b3a848397ce6" />
 
 ### Knowledge Nexus
 
-An interactive constellation of technologies and skills.
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/fa0dde83-3e91-47be-a63a-32bd0ac9127e" />
 
 ### Alternate Realities
 
-Projects visualized as separate realities within the timeline.
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/9bc8efcc-480a-4fa9-99d9-79dd8eb7808d" />
 
 ### Timeline Events
 
-Professional experiences that shaped the journey.
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/98c365d6-2b3e-4995-9351-29424840f354" />
 
 ### Artifacts of the Journey
 
-Achievements, certifications, and milestones.
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/9e85b315-e1ef-49e3-8f31-c8d5b211587d" />
 
 ### Future Timeline
 
-A glimpse into the next chapter.
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/6565cdcb-5a6e-4088-a712-6e4c92798e37" />
 
 ---
 
