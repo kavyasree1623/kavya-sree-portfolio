@@ -196,7 +196,6 @@ npm run dev
 ## ⭐ Portfolio Philosophy
 
 > "A software engineer's life journey visualized through interconnected timelines."
-
 Every timeline tells a story.
 Every project creates a new reality.
 The journey continues.
